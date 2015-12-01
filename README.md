@@ -1,5 +1,13 @@
 # Papers I Love
 
+## Queuing Theory
+
+- [ ] [A Dash of Queuing Theory](http://ss15-teropa.divshot.io/)
+
+## Statistics
+
+- [ ] (How to visualize and compare distributions)[https://flowingdata.com/2012/05/15/how-to-visualize-and-compare-distributions/]
+
 ## Distributed Systems - Theory
 
 - [ ] [Time, Clocks, and the Ordering of Events in a Distributed System [Lamport]](http://amturing.acm.org/p558-lamport.pdf)
