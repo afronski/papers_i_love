@@ -6,7 +6,7 @@
 
 ## Statistics
 
-- [ ] [How to visualize and compare distributions](https://flowingdata.com/2012/05/15/how-to-visualize-and-compare-distributions/)
+- [ ] [How to visualize and compare distributions?](https://flowingdata.com/2012/05/15/how-to-visualize-and-compare-distributions/)
 
 ## Distributed Systems - Theory
 
