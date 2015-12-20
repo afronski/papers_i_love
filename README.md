@@ -20,7 +20,7 @@
 - [ ] [ARIANE 5 - Flight 501 Failure - Report by the Inquiry Board](http://esamultimedia.esa.int/docs/esa-x-1819eng.pdf)
 - [ ] [Real System Failures](https://c3.nasa.gov/dashlink/static/media/other/Introduction1.html)
 - [ ] [Byzantine Fault Tolerance, from Theory to Reality](https://www.cs.indiana.edu/classes/p545/post/lec/fault-tolerance/Driscoll-Hall-Sivencrona-Xumsteg-03.pdf)
-- [ ] [Mars Climate Orbiter - Mishap Investigation Board - Phase I Report](ftp://ftp.hq.nasa.gov/pub/pao/reports/1999/MCO_report.pdf)
+- [ ] [Mars Climate Orbiter - Mishap Investigation Board - Phase I Report](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
 
 ## Data Structures
 
