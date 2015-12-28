@@ -38,3 +38,7 @@
 ## Other
 
 - [ ] [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
+
+## Psychology
+
+- [ ] [A Study of Prisoners and Guards (Stanford prison experiment, *SPE*)](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf)
