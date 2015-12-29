@@ -2,7 +2,7 @@
 
 ## Queuing Theory
 
-- [ ] [A Dash of Queuing Theory](http://ss15-teropa.divshot.io/)
+- [ ] [A Dash of Queuing Theory [Parviainen]](http://ss15-teropa.divshot.io/)
 
 ## Statistics
 
