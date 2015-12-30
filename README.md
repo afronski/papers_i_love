@@ -29,6 +29,13 @@
 
 - [ ] [Concurrent Reading and Writing [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/rd-wr.pdf)
 
+## Languages and VMs
+
+### Erlang
+
+- [ ] [Monitoring Erlang/OTP Applications using Multiparty Session Types](http://simonjf.com/writing/msc-thesis.pdf)
+- [ ] [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/Elliott_BSc_Dissertation.pdf)
+
 ## Networking
 
 ### TCP
