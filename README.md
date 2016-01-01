@@ -23,6 +23,10 @@
 - [ ] [Mars Climate Orbiter - Mishap Investigation Board - Phase I Report](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
 - [ ] [Report of the Presidential Commision on the Space Shuttle Challenger Accident - Volume 2: Appendix F - Personal Observations on Reliability of Shuttle [Feynman]](http://history.nasa.gov/rogersrep/v2appf.htm)
 
+### Performance
+
+- [ ] [Structured Programming with go to Statements [Knuth]](http://sbel.wisc.edu/Courses/ME964/Literature/knuthProgramming1974.pdf)
+
 ## Data Structures
 
 ### Lock-free, Wait-free
