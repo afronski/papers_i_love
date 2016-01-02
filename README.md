@@ -39,6 +39,7 @@
 
 - [ ] [Monitoring Erlang/OTP Applications using Multiparty Session Types](http://simonjf.com/writing/msc-thesis.pdf)
 - [ ] [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/Elliott_BSc_Dissertation.pdf)
+- [x] [Making reliable distributed systems in the presence of software errors [Armstrong]](http://ftp.nsysu.edu.tw/FreeBSD/ports/distfiles/erlang/armstrong_thesis_2003.pdf)
 
 ## Networking
 
