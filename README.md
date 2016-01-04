@@ -3,6 +3,7 @@
 ## Queuing Theory
 
 - [ ] [A Dash of Queuing Theory [Parviainen]](http://ss15-teropa.divshot.io/)
+- [ ] [Introduction to Queueing Theory and Stochastic Teletraffic Models [Zukerman]](http://arxiv.org/pdf/1307.2968.pdf)
 
 ## Statistics
 
