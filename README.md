@@ -16,6 +16,10 @@
 
 ## Software Engineering
 
+### General
+
+- [ ] [On the interplay between mathematics and programming](http://www.cs.utexas.edu/users/EWD/ewd06xx/EWD641.PDF)
+
 ### Fault Tolerance and Failures
 
 - [ ] [ARIANE 5 - Flight 501 Failure - Report by the Inquiry Board](http://esamultimedia.esa.int/docs/esa-x-1819eng.pdf)
