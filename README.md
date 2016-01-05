@@ -18,7 +18,7 @@
 
 ### General
 
-- [ ] [On the interplay between mathematics and programming](http://www.cs.utexas.edu/users/EWD/ewd06xx/EWD641.PDF)
+- [ ] [On the interplay between mathematics and programming [Dijkstra]](http://www.cs.utexas.edu/users/EWD/ewd06xx/EWD641.PDF)
 
 ### Fault Tolerance and Failures
 
