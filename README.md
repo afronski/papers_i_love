@@ -31,6 +31,7 @@
 ### Performance
 
 - [ ] [Structured Programming with go to Statements [Knuth]](http://sbel.wisc.edu/Courses/ME964/Literature/knuthProgramming1974.pdf)
+- [ ] [LMAX Disruptor [Fowler]](http://martinfowler.com/articles/lmax.html)
 
 ## Data Structures
 
