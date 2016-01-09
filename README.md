@@ -8,6 +8,7 @@
 ## Statistics
 
 - [ ] [How to visualize and compare distributions?](https://flowingdata.com/2012/05/15/how-to-visualize-and-compare-distributions/)
+- [ ] [Think Stats: Probability and Statistics for Programmers [Book]](http://greenteapress.com/thinkstats/thinkstats.pdf)
 
 ## Distributed Systems - Theory
 
