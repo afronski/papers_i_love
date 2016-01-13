@@ -14,6 +14,7 @@
 
 - [ ] [Time, Clocks, and the Ordering of Events in a Distributed System [Lamport]](http://amturing.acm.org/p558-lamport.pdf)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
+- [ ] [Impossibility of Distributed Consensus With One Faulty Process [Fisher, Lynch, Patterson]](http://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 
 ## Software Engineering
 
