@@ -23,6 +23,7 @@
 ### General
 
 - [ ] [On the interplay between mathematics and programming [Dijkstra]](http://www.cs.utexas.edu/users/EWD/ewd06xx/EWD641.PDF)
+- [ ] [Man-Computer Symbiosis [Lickider]](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 
 ### Fault Tolerance and Failures
 
