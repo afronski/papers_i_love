@@ -17,6 +17,7 @@
 - [ ] [Impossibility of Distributed Consensus With One Faulty Process [Fisher, Lynch, Patterson]](http://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [ ] [Building Consistent Transactions with Inconsistent Replication](http://delivery.acm.org/10.1145/2820000/2815404/p263-zhang.pdf?ip=89.75.157.114&id=2815404&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ECF7AC3D0039C8615&CFID=745047049&CFTOKEN=22450389&__acm__=1452785384_94fae7896cb38250942cd2e84f121416)
 - [ ] [The Computer as a Communication Device [Licklider, Taylor]](http://www.utexas.edu/lbj/archive/news/images/file/20_20_03_licklider-taylor-1.pdf)
+- [ ] [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 
 ## Software Engineering
 
