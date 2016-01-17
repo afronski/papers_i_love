@@ -42,6 +42,10 @@
 
 ## Data Structures
 
+### Distributed Systems
+
+-  [ ] [Conflict-free Replicated Data Types [Shapiro, Preguica, Baquero, Zawirski]](https://hal.inria.fr/inria-00609399v1/document)
+
 ### Lock-free, Wait-free
 
 - [ ] [Concurrent Reading and Writing [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/rd-wr.pdf)
