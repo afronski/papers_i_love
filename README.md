@@ -35,7 +35,8 @@
 
 #### Theory
 
-- [ ] [Byzantine Fault Tolerance, from Theory to Reality](https://www.cs.indiana.edu/classes/p545/post/lec/fault-tolerance/Driscoll-Hall-Sivencrona-Xumsteg-03.pdf)
+- [ ] [Byzantine Fault Tolerance, from Theory to Reality [Driscoll1]](https://www.cs.indiana.edu/classes/p545/post/lec/fault-tolerance/Driscoll-Hall-Sivencrona-Xumsteg-03.pdf)
+
 ### Performance
 
 - [ ] [Structured Programming with go to Statements [Knuth]](http://sbel.wisc.edu/Courses/ME964/Literature/knuthProgramming1974.pdf)
