@@ -47,7 +47,8 @@
 
 ### Distributed Systems
 
--  [ ] [Conflict-free Replicated Data Types [Shapiro, Preguica, Baquero, Zawirski]](https://hal.inria.fr/inria-00609399v1/document)
+- [ ] [A comprehensive study of Convergent and Commutative Replicated Data Types [Shapiro, Preguiça, Baquero, Zawirski](http://hal.upmc.fr/inria-00555588/document)
+- [ ] [Conflict-free Replicated Data Types [Shapiro, Preguica, Baquero, Zawirski]](https://hal.inria.fr/inria-00609399v1/document)
 
 ### Lock-free, Wait-free
 
