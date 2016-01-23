@@ -28,10 +28,15 @@
 
 ### Fault Tolerance and Failures
 
+#### Reports
+
 - [ ] [ARIANE 5 - Flight 501 Failure - Report by the Inquiry Board](http://esamultimedia.esa.int/docs/esa-x-1819eng.pdf)
-- [ ] [Real System Failures](https://c3.nasa.gov/dashlink/static/media/other/Introduction1.html)
 - [ ] [Mars Climate Orbiter - Mishap Investigation Board - Phase I Report](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
 - [ ] [Report of the Presidential Commision on the Space Shuttle Challenger Accident - Volume 2: Appendix F - Personal Observations on Reliability of Shuttle [Feynman]](http://history.nasa.gov/rogersrep/v2appf.htm)
+
+#### Summaries
+
+- [ ] [Real System Failures](https://c3.nasa.gov/dashlink/static/media/other/Introduction1.html)
 
 #### Theory
 
