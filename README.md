@@ -67,11 +67,13 @@
 ### Performance
 
 - [ ] [Structured Programming with go to Statements [Knuth]](http://sbel.wisc.edu/Courses/ME964/Literature/knuthProgramming1974.pdf)
-- [ ] [High performance alternative to bounded queues for exchanging data between concurrent threads [Thompson, Farley, Barker, Gee, Stewart]](http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf)
 
 ### Architecture
 
+#### LMAX
+
 - [ ] [LMAX Disruptor [Fowler]](http://martinfowler.com/articles/lmax.html)
+- [ ] [High performance alternative to bounded queues for exchanging data between concurrent threads [Thompson, Farley, Barker, Gee, Stewart]](http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf)
 
 ### Languages and VMs
 
