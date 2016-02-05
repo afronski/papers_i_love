@@ -83,3 +83,5 @@
 - [ ] [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 - [ ] [Monitoring Erlang/OTP Applications using Multiparty Session Types](http://simonjf.com/writing/msc-thesis.pdf)
 - [ ] [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/Elliott_BSc_Dissertation.pdf)
+- [ ] [Practical Type Inference Based on Success Typing](http://www.it.uu.se/research/group/hipe/dialyzer/publications/succ_types.pdf)
+- [ ] [Test-Driven Development of Concurrent Programs using Concuerror](http://research.microsoft.com/en-US/people/mchri/erlang-2011.pdf)
