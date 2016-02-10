@@ -9,6 +9,10 @@
 
 ## Next
 
+- [ ] [Why Do Computers Stop and What Can Be Done About It? [Gray]](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
+ 
+- [ ] [Out of the Tar Pit [Moseley, Marks]](http://shaffner.us/cs/papers/tarpit.pdf)
+
 - [ ] [Time, Clocks, and the Ordering of Events in a Distributed System [Lamport]](http://amturing.acm.org/p558-lamport.pdf)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
-- [ ] [Why Do Computers Stop and What Can Be Done About It? [Gray]](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
+
