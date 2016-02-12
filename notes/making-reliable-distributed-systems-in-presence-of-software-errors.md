@@ -37,10 +37,15 @@
 - Case Studies
   - Meat of whole thesis. Amazing summary of various projects written in Erlang
     with a lot of details about maintenance, designing and implementation.
+    - Most interesting chapter for me because of different approaches, different
+      techniques used and various problems solved with use of specific
+      technology and particular implementation.
 - APIs and Protocols
   - Interesting chapter about theory of protocols and way of verifying them
     based on contracts provided on both sides and doing automated contracts
     verification.
+    - Probably most theoretical and impressive chapter in terms of ideas and
+      innovative approach to contract verification.
 - Conclusions
   - Thesis conclusions and summing up achievements.
 - Appendix: UBF
@@ -48,4 +53,3 @@
     and still relies on pure binary form - Universal Binary Format.
   - Very interesting concept, Erlang uses something similar to communicate
     across multiple nodes in the cluster.
-    
