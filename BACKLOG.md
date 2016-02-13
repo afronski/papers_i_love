@@ -3,7 +3,6 @@
 - [ ] [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency ](http://web.stanford.edu/class/cs240/readings/89-leases.pdf)
 - [ ] [A Study of Prisoners and Guards (Stanford prison experiment, *SPE*)](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf)
 - [ ] [On the interplay between mathematics and programming [Dijkstra]](http://www.cs.utexas.edu/users/EWD/ewd06xx/EWD641.PDF)
-- [ ] [How to visualize and compare distributions?](https://flowingdata.com/2012/05/15/how-to-visualize-and-compare-distributions/)
 - [ ] [Think Stats: Probability and Statistics for Programmers [Book]](http://greenteapress.com/thinkstats/thinkstats.pdf)
 - [ ] [Introduction to Queueing Theory and Stochastic Teletraffic Models [Zukerman]](http://arxiv.org/pdf/1307.2968.pdf)
 - [ ] [A Dash of Queuing Theory [Parviainen]](http://ss15-teropa.divshot.io/)
