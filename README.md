@@ -18,6 +18,7 @@
 - [ ] [Out of the Tar Pit [Moseley, Marks]](http://shaffner.us/cs/papers/tarpit.pdf)
 - [ ] [Time, Clocks, and the Ordering of Events in a Distributed System [Lamport]](http://amturing.acm.org/p558-lamport.pdf)
 - [ ] [The Part-Time Parliament [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
+- [ ] [Impossibility of Distributed Consensus with One Faulty Process [Fischer, Lynch, Paterson]](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 - [ ] [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems [Yuan, Luo, Zhuang, Rodrigues, Zhao, Zhang, Jain, Stumm]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
