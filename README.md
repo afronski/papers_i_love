@@ -12,6 +12,7 @@
 ### Reading
 
 - [ ] [Why Do Computers Stop and What Can Be Done About It? [Gray]](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
+  - [Notes](./notes/why-do-computers-stop-and-what-can-be-done-about-it.md)
 
 ### Next papers
 
@@ -21,4 +22,3 @@
 - [ ] [Impossibility of Distributed Consensus with One Faulty Process [Fischer, Lynch, Paterson]](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 - [ ] [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems [Yuan, Luo, Zhuang, Rodrigues, Zhao, Zhang, Jain, Stumm]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
-
