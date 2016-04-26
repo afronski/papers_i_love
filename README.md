@@ -23,3 +23,4 @@
 - [ ] [The Part-Time Parliament [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 - [ ] [Out of the Tar Pit [Moseley, Marks]](http://shaffner.us/cs/papers/tarpit.pdf)
 - [ ] [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems [Yuan, Luo, Zhuang, Rodrigues, Zhao, Zhang, Jain, Stumm]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+- [ ] [Mnesia A Distributed Robust DBMS for Telecommunications Applications [Mattsson, Nilsson, Wikstrom]](http://www.erlang.se/publications/mnesia_overview.pdf)
