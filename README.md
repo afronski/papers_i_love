@@ -19,6 +19,7 @@
 ### Next papers
 
 - [ ] [Impossibility of Distributed Consensus with One Faulty Process [Fischer, Lynch, Paterson]](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+- [ ] [Dynamo: Amazon's Highly Available Key-value Store](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 - [ ] [The Part-Time Parliament [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 - [ ] [Out of the Tar Pit [Moseley, Marks]](http://shaffner.us/cs/papers/tarpit.pdf)
