@@ -9,7 +9,6 @@
 - [ ] [A Dash of Queuing Theory [Parviainen]](http://ss15-teropa.divshot.io/)
 - [ ] [Impossibility of Distributed Consensus With One Faulty Process [Fisher, Lynch, Patterson]](http://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [ ] [Byzantine Fault Tolerance, from Theory to Reality [Driscoll, Hall, Sivencrona, Zumsteg]](https://www.cs.indiana.edu/classes/p545/post/lec/fault-tolerance/Driscoll-Hall-Sivencrona-Xumsteg-03.pdf)
-- [ ] [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [ ] [Building Consistent Transactions with Inconsistent Replication](http://delivery.acm.org/10.1145/2820000/2815404/p263-zhang.pdf?ip=89.75.157.114&id=2815404&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ECF7AC3D0039C8615&CFID=745047049&CFTOKEN=22450389&__acm__=1452785384_94fae7896cb38250942cd2e84f121416)
 - [ ] [A comprehensive study of Convergent and Commutative Replicated Data Types [Shapiro, Preguiça, Baquero, Zawirski]](http://hal.upmc.fr/inria-00555588/document)
 - [ ] [Conflict-free Replicated Data Types [Shapiro, Preguica, Baquero, Zawirski]](https://hal.inria.fr/inria-00609399v1/document)
