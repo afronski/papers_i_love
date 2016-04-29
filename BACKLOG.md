@@ -1,6 +1,6 @@
 # Backlog
 
-- [ ] [Deny Capabilities for Safe, Fast Actors](https://github.com/ponylang/ponylang.github.io/raw/master/papers/fast-cheap.pdf)
+- [ ] [Deny Capabilities for Safe, Fast Actors [Clebsch, Drossopoulou, Blessing, McNeil]](https://github.com/ponylang/ponylang.github.io/raw/master/papers/fast-cheap.pdf)
 - [ ] [Interval Tree Clocks: A Logical Clock for Dynamic System](http://gsd.di.uminho.pt/members/cbm/ps/itc2008.pdf)
 - [ ] [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency ](http://web.stanford.edu/class/cs240/readings/89-leases.pdf)
 - [ ] [A Study of Prisoners and Guards (Stanford prison experiment, *SPE*)](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf)
