@@ -1,5 +1,11 @@
 # Backlog
 
+- [ ] [Impossibility of Distributed Consensus with One Faulty Process [Fischer, Lynch, Paterson]](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+- [ ] [Dynamo: Amazon's Highly Available Key-value Store [DeCandia, Hastorun, Jampani, Kakulapati, Lakshman, Pilchin, Sivasubramanian, Vosshall, Vogels]](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+- [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
+- [ ] [The Part-Time Parliament [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
+- [ ] [Out of the Tar Pit [Moseley, Marks]](http://shaffner.us/cs/papers/tarpit.pdf)
+- [ ] [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems [Yuan, Luo, Zhuang, Rodrigues, Zhao, Zhang, Jain, Stumm]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 - [ ] [Deny Capabilities for Safe, Fast Actors [Clebsch, Drossopoulou, Blessing, McNeil]](https://github.com/ponylang/ponylang.github.io/raw/master/papers/fast-cheap.pdf)
 - [ ] [Interval Tree Clocks: A Logical Clock for Dynamic System](http://gsd.di.uminho.pt/members/cbm/ps/itc2008.pdf)
 - [ ] [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency ](http://web.stanford.edu/class/cs240/readings/89-leases.pdf)
