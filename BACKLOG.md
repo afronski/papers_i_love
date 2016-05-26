@@ -1,6 +1,7 @@
 # Backlog
 
 - [ ] [Impossibility of Distributed Consensus with One Faulty Process [Fischer, Lynch, Paterson]](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+- [ ] [Building on Quicksand [Helland, Campbell]](http://arxiv.org/pdf/0909.1788v1.pdf)
 - [ ] [Dynamo: Amazon's Highly Available Key-value Store [DeCandia, Hastorun, Jampani, Kakulapati, Lakshman, Pilchin, Sivasubramanian, Vosshall, Vogels]](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [ ] [The Byzantine Generals Problem [Lamport, Shostak, Pease]](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 - [ ] [The Part-Time Parliament [Lamport]](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
