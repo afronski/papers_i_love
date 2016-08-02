@@ -1,5 +1,5 @@
 # Backlog
-
+- [ ] [Rigorous Benchmarking in Reasonable Time [Kalibera, Jones]](https://kar.kent.ac.uk/33611/7/paper.pdf)
 - [ ] [Why functional programming matters [Hughes]](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 - [ ] [Dynamic Witnesses for Static Type Errors [Seidel, Jhala, Weimer]](http://eric.seidel.io/pub/nanomaly-icfp16.pdf)
 - [ ] [Immutability Changes Everything [Helland]](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
