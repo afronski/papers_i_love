@@ -1,4 +1,6 @@
 # Backlog
+
+- [ ] [Scalability! But at what COST? [McSherry, Isard, Murray]](http://www.frankmcsherry.org/assets/COST.pdf)
 - [ ] [Rigorous Benchmarking in Reasonable Time [Kalibera, Jones]](https://kar.kent.ac.uk/33611/7/paper.pdf)
 - [ ] [Why functional programming matters [Hughes]](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 - [ ] [Dynamic Witnesses for Static Type Errors [Seidel, Jhala, Weimer]](http://eric.seidel.io/pub/nanomaly-icfp16.pdf)
